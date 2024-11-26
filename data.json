@@ -2,6 +2,6 @@
     "name": "100K BIT",
     "symbol": "100KBIT",
     "description": "BITCOIN TO 100K",
-    "uri": "https://raw.githubusercontent.com/AmitozHayer/metadata/refs/heads/main/data.json",
+    "uri": "https://raw.githubusercontent.com/AmitozHayer/metadata/main/data.json",
     "image": "https://github.com/AmitozHayer/metadata/blob/main/bitcoinn.png"
 }
