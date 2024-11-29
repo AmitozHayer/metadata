@@ -1,0 +1,13 @@
+{
+    "name": "CringeIndianTikTokers",
+    "symbol": "1$CRINGE",
+    "uri": "https://raw.githubusercontent.com/AmitozHayer/metadata/main/data.json",
+    "seller_fee_basis_points": 500, 
+    "creators": [
+        {
+            "address": "822xfRQRdQfZGQsgrSGKa8EEhKroVMBwafXA4KZNRVa6",
+            "verified": true,
+            "share": 100
+        }
+    ]
+}
